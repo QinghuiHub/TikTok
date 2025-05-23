@@ -6,7 +6,8 @@ https://github.com/QinghuiHub/TikTok/releases/download/v1.0.0/TikTok.apk
 
 #### 苹果​​没有独立的安装包​​供用户直接下载
 建议使用谷歌浏览器或者苹果自带浏览器打开网页版TikTok学习
-https://www.tiktok.com/foryou
+​​https://www.tiktok.com/​
+
 因为你从app store安装TikTok很麻烦，得配置TikTok的环境
 
 
